@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maiamarcelo
 - 👀 I’m interested in Software Engineering Research
 - 🌱 I’m currently researching Machine Learning Applied to Software Engineering
-- 💞️ I’m looking to collaborate on any interesting topic problem regarding this topic.
+- 💞️ I’m looking to collaborate on any interesting problem regarding this topic.
 - 📫 Send me a message at marcelo dot maia at ufu dot br
 
 <!---
